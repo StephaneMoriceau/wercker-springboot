@@ -24,7 +24,7 @@ deploy-accs:
         opc_password: $OPC_PASSWORD
         rest_url: $REST_URL
         domain: $IDENTITY_DOMAIN
-        application_name: prepID
+        application_name: springbootAccsDemo
         application_type: java
         file: springbootdemo-0.0.1.zip
 restart-occs:
