@@ -26,7 +26,7 @@ deploy-accs:
         domain: $IDENTITY_DOMAIN
         application_name: springbootAccsDemo
         application_type: java
-        file: springbootdemo-0.0.1.zip
+        file: springbootdemo-0.0.3.zip
 restart-occs:
   steps:
     # Manage Oracle Container Cloud Service container
