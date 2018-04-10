@@ -36,7 +36,7 @@
 
       <div class="blueBannerHeading">
         <h1 class="blueBannerTitleWithSubtitle">
-          <a style="color: #ffffff">Oracle Container Cloud Service by Stephane for STM</a>
+          <a style="color: #123456">Oracle Container Cloud Service by Stephane for Minami</a>
         </h1>
       </div>
 
